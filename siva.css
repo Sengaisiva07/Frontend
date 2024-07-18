@@ -1,0 +1,37 @@
+body{
+    background-color: #8bc0c0;;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 15px;
+    height:auto;
+    max-width: fit-content;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+div{
+    
+    
+    box-shadow: 5px 5px 4px 5px rgb(165, 42, 42);
+    background-color: #23a7db;
+    padding-left: 20px;
+    
+    
+}
+
+div:hover {
+    color: black;
+    background-color: rgb(231, 137, 137);
+    scale: 0.9;
+    height: fit-content;
+    transition: 10ms;
+    cursor: pointer;
+    padding-top: 20px;
+    height: auto;
+}
+img{
+    padding-left: 50px;
+}
+.h4{
+    padding: 50px;
+    
+}
